@@ -1,10 +1,12 @@
 # dense_mapping
 
-## Introduction：A Voxel Map Reconstruction System of Quadrotor Aircraft Based on Monocular Vision: Used a monocular camera carried by a drone to establish a map for navigation based on SLAM, and design a trajectory planning algorithm to achieve the optimal trajectory flight of the drone in an indoor scene.
+### Introduction：
+Used a monocular camera carried by a drone to establish a map for navigation based on SLAM, and design a trajectory planning algorithm to achieve the optimal trajectory flight of the drone in an indoor scene.
 
-## Contribution：Achieved depth estimation in monocular SLAM algorithm to generate dense point clouds, utilized OctoMap in ROS to convert point clouds to 3D grid maps that could be used for trajectory planning, solved the problem that sparse point cloud maps could not be used for navigation.
+### Contribution：
+Achieved depth estimation in monocular SLAM algorithm to generate dense point clouds, utilized OctoMap in ROS to convert point clouds to 3D grid maps that could be used for trajectory planning, solved the problem that sparse point cloud maps could not be used for navigation.
 
-## A Voxel Map Reconstruction System of Quadrotor Aircraft Based on Monocular Vision published
+### A Voxel Map Reconstruction System of Quadrotor Aircraft Based on Monocular Vision published
 
 <table style="width:100%; border-collapse: collapse;">
   <tr>
