@@ -6,7 +6,7 @@ Used a monocular camera carried by a drone to establish a map for navigation bas
 ### Contribution：
 Achieved depth estimation in monocular SLAM algorithm to generate dense point clouds, utilized OctoMap in ROS to convert point clouds to 3D grid maps that could be used for trajectory planning, solved the problem that sparse point cloud maps could not be used for navigation.
 
-### A Voxel Map Reconstruction System of Quadrotor Aircraft Based on Monocular Vision published
+<a href="https://kns.cnki.net/kcms2/article/abstract?v=2arE9-pF_S2W_bYWMQKYUKOFge-euAYWXI-oVfZVH-cmZo6wten5fUBxW4cge_xFCajCZy_ARXVTyLiaaGoF_xtyyiy5vwGZeveP7kerhqE7ckbfoM_vWJTqHp5hw1i50tZYc6bZF_xSqOvWKbYGJlT5Fe1riybfeyUxWeTLG5u6fXOrIHQpLhv2InZkE12d&uniplatform=NZKPT&language=CHS" title="paper">A Voxel Map Reconstruction System of Quadrotor Aircraft Based on Monocular Vision</a> published
 
 <table style="width:100%; border-collapse: collapse;">
   <tr>
